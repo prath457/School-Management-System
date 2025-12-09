@@ -31,15 +31,6 @@ This repository contains a comprehensive School Management System developed as a
   - Identity and Access Control
   - Registration and Login functionalities secured with JWT tokens on both frontend (Angular) and backend (API).
 
-## Collaborators
-
-This project was a collaborative effort involving:
-- [Mohammad Mazharul Islam](https://github.com/Mazharul-DotnetDev)
-- [Sayed Zahidul Hoque](https://github.com/ProgZahidul)
-- [Tamzid-Ahammad](https://github.com/Tamzid-Ahammad)
-- [Nayem Sharif](https://github.com/Coder-Nayem)
-- [S-M-LUTFAR-RAHMAN](https://github.com/S-M-LUTFAR-RAHMAN)
-
 ## Development Tools
 
 - Visual Studio 2022
@@ -55,3 +46,4 @@ This project was a collaborative effort involving:
 2. **Database Setup:** Use SQL Server Management Studio 2019 to update the database by running necessary migrations (`Update-Database`).
 3. **Angular Setup:** Navigate to the Angular project directory, install node modules (`npm install`), and build the Angular application.
 4. **Run Projects:** Start both the API and Angular projects to launch the School Management System.
+
